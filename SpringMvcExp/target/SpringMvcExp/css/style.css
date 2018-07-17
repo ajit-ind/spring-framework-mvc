@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+.homeDiv {
+	width : 700px;
+	height: 300px;
+	background-color: E4E4E4;
+}
+
+.regFormDiv {
+	width : 700px;
+	higth : 900px;
+	background-color: D1FE07;
+}
+
+.text {
+	font-family: segoe-ui-regular,sans-serif,"Helvetica Neue",Helvetica,Arial;
+	font-size: 12px;
+	box-sizing: border-box;
+	border: 1px solid #ccc;
+}
+
+.textAlingMent {
+	text-align: center;
+}
